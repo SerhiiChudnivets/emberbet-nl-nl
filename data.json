@@ -52,15 +52,86 @@
     "url": "/uploads/ce69aa612e9c6c54a099bbc2c3d0bb84.webp",
     "alt": "emberbet casino"
   },
-  "header_menu": null,
-  "footer_menu": null,
-  "footer_images": null,
+  "header_menu": [
+    {
+      "link": "/play/",
+      "label": "Spellen",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Bonussen",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Sport",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Betalingen",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_menu": [
+    {
+      "link": "/play/",
+      "label": "Over ons",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Contactpersonen",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Privacybeleid",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Cookiebeleid",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_images": [
+    {
+      "link": "/play/",
+      "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
+      "image_alt": "18+"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
+      "image_alt": "visa"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/2333a8386ea6b8af17c8fa8ac44035e2.svg",
+      "image_alt": "mastercard"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/767309a1bb8da0f68e987f277a6ebbf1.webp",
+      "image_alt": "bitcoin"
+    }
+  ],
   "Slots": null,
   "Bonuses": null,
   "Reviews": null,
   "FAQ": null,
-  "_generated_at": "2026-09-15T15:19:09.058Z",
+  "_generated_at": "2026-09-15T15:23:43.577Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-15T15:19:09.609Z",
-  "_deploy_trigger": "tpgel"
+  "_last_deploy": "2026-09-15T15:23:44.180Z",
+  "_deploy_trigger": "9vqv4f"
 }
