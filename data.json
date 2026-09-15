@@ -32,14 +32,14 @@
   "home_name": "Emberbet Casino",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": null,
-  "secondary_background": null,
-  "button_background": null,
-  "button_text_color": null,
-  "text_color": null,
-  "color_highlight_text": null,
-  "color_main_btn_text": null,
-  "cta_background": null,
+  "main_background": "#03171f",
+  "secondary_background": "#182e37",
+  "button_background": "#ff6321",
+  "button_text_color": "#ffffff",
+  "text_color": "#ffffff",
+  "color_highlight_text": "#ffffff",
+  "color_main_btn_text": "#ffffff",
+  "cta_background": "#ff6321",
   "logo": {
     "url": "/uploads/460309704664999452684035f314f3c8.svg",
     "alt": "emberbet logo"
@@ -130,8 +130,8 @@
   "Bonuses": null,
   "Reviews": null,
   "FAQ": null,
-  "_generated_at": "2026-09-15T15:23:43.577Z",
+  "_generated_at": "2026-09-15T15:33:55.187Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-15T15:23:44.180Z",
-  "_deploy_trigger": "9vqv4f"
+  "_last_deploy": "2026-09-15T15:33:55.908Z",
+  "_deploy_trigger": "enw1io"
 }
