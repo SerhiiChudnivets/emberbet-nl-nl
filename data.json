@@ -263,21 +263,6 @@
       "link": "/play/",
       "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
       "image_alt": "18+"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
-      "image_alt": "visa"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/2333a8386ea6b8af17c8fa8ac44035e2.svg",
-      "image_alt": "mastercard"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/767309a1bb8da0f68e987f277a6ebbf1.webp",
-      "image_alt": "bitcoin"
     }
   ],
   "Slots": [
@@ -363,10 +348,10 @@
       "question": "Welke documenten zijn nodig voor de accountverificatie (KYC)?"
     }
   ],
-  "_generated_at": "2026-09-17T09:43:29.983Z",
+  "_generated_at": "2026-09-17T09:43:53.304Z",
   "_version": "1.0.0",
   "html_head_alt": "emberbet casino",
   "content_alt": "emberbet slot",
-  "_last_deploy": "2026-09-17T09:43:30.564Z",
-  "_deploy_trigger": "hcnlwh"
+  "_last_deploy": "2026-09-17T09:43:53.861Z",
+  "_deploy_trigger": "tqq1xl"
 }
