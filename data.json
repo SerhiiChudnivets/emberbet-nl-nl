@@ -22,7 +22,7 @@
       "gptPrompt": "",
       "heroTitle": "Emberbet Casino",
       "heroSubtitle": "Welkomstbonus",
-      "heroBadge": "Emberbet — Ontvang Exclusieve Bonussen",
+      "heroBadge": "Emberbet — Speel Online Gokkasten",
       "ctaText": "Speel Nu",
       "tagline": "125% tot €750 + 250 gratis spins",
       "heroImage": "/uploads/ce69aa612e9c6c54a099bbc2c3d0bb84.webp",
@@ -109,7 +109,7 @@
       "seo_description": "Duik in de wereld van Emberbet en geniet van online kansspelen van het hoogste niveau. Dankzij het ruime aanbod vindt u hier zeker iets dat bij u past.",
       "html_head": "<link rel=\"canonical\" href=\"https://emberbet-nl.nl/nl-nl/\">\n<link rel=\"alternate\" href=\"https://emberbet-nl.nl/\" hreflang=\"nl\">\n<link rel=\"alternate\" href=\"https://emberbet-nl.nl/nl-nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Emberbet Casino | 125% bonus tot € 750 + 250 gratis spins\">\n<meta property=\"og:description\" content=\"Duik in de wereld van Emberbet en geniet van online kansspelen van het hoogste niveau. Dankzij het ruime aanbod vindt u hier zeker iets dat bij u past.\">\n<meta property=\"og:url\" content=\"emberbet-nl.nl\">\n<meta property=\"og:site_name\" content=\"Emberbet Casino\">\n<meta property=\"og:image\" content=\"https://emberbet-nl.nl//uploads/ce69aa612e9c6c54a099bbc2c3d0bb84.webp\">",
       "faq_title": "FAQ",
-      "hero_badge": "Emberbet — Ontvang Exclusieve Bonussen",
+      "hero_badge": "Emberbet — Speel Online Gokkasten",
       "cta_text": "Speel Nu",
       "content_alt": "emberbet slot",
       "htmlHead_alt": "emberbet casino",
@@ -170,7 +170,7 @@
   "redirect_site": null,
   "hero_title": "Emberbet Casino",
   "hero_subtitle": "Welkomstbonus",
-  "hero_badge": "Emberbet — Ontvang Exclusieve Bonussen",
+  "hero_badge": "Emberbet — Speel Online Gokkasten",
   "cta_text": "Speel Nu",
   "tagline": "125% tot €750 + 250 gratis spins",
   "features_list": null,
@@ -348,10 +348,10 @@
       "question": "Welke documenten zijn nodig voor de accountverificatie (KYC)?"
     }
   ],
-  "_generated_at": "2026-09-17T09:43:53.304Z",
+  "_generated_at": "2026-09-17T11:39:15.332Z",
   "_version": "1.0.0",
   "html_head_alt": "emberbet casino",
   "content_alt": "emberbet slot",
-  "_last_deploy": "2026-09-17T09:43:53.861Z",
-  "_deploy_trigger": "tqq1xl"
+  "_last_deploy": "2026-09-17T11:39:15.915Z",
+  "_deploy_trigger": "q6shqu"
 }
